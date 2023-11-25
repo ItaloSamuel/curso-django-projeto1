@@ -1,3 +1,4 @@
 [
+  "test_teste.py::test_teste",
   "teste/test_prime.py::test_prime"
 ]
