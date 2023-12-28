@@ -1,4 +1,5 @@
 [
+  "recipes/tests.py::RecipeURLsTest::test_the_pytest_is_ok",
   "test_teste.py::test_teste",
   "teste/test_prime.py::test_prime"
 ]
