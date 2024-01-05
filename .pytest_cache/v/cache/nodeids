@@ -1,5 +1,11 @@
 [
+  "recipes/tests.py::RecipeURLsTest::test_recipe_category_url_is_correct",
+  "recipes/tests.py::RecipeURLsTest::test_recipe_detail_url_is_correct",
+  "recipes/tests.py::RecipeURLsTest::test_recipe_home_url_is_correct",
   "recipes/tests.py::RecipeURLsTest::test_the_pytest_is_ok",
+  "recipes/tests.py::RecipeViewsTest::test_recipe_category_view_function_is_correct",
+  "recipes/tests.py::RecipeViewsTest::test_recipe_detail_view_function_is_correct",
+  "recipes/tests.py::RecipeViewsTest::test_recipe_home_view_function_is_correct",
   "test_teste.py::test_teste",
   "teste/test_prime.py::test_prime"
 ]
