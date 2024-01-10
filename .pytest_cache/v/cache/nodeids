@@ -6,6 +6,15 @@
   "recipes/tests.py::RecipeViewsTest::test_recipe_category_view_function_is_correct",
   "recipes/tests.py::RecipeViewsTest::test_recipe_detail_view_function_is_correct",
   "recipes/tests.py::RecipeViewsTest::test_recipe_home_view_function_is_correct",
+  "recipes/tests/test_recipe_url.py::RecipeURLsTest::test_recipe_category_url_is_correct",
+  "recipes/tests/test_recipe_url.py::RecipeURLsTest::test_recipe_detail_url_is_correct",
+  "recipes/tests/test_recipe_url.py::RecipeURLsTest::test_recipe_home_url_is_correct",
+  "recipes/tests/test_recipe_views.py::RecipeViewsTest::test_recipe_category_view_function_is_correct",
+  "recipes/tests/test_recipe_views.py::RecipeViewsTest::test_recipe_detail_view_function_is_correct",
+  "recipes/tests/test_recipe_views.py::RecipeViewsTest::test_recipe_home_template_show_no_recipes_found_if_no_recipe",
+  "recipes/tests/test_recipe_views.py::RecipeViewsTest::test_recipe_home_view_function_is_correct",
+  "recipes/tests/test_recipe_views.py::RecipeViewsTest::test_recipe_home_view_loads_correct_template",
+  "recipes/tests/test_recipe_views.py::RecipeViewsTest::test_recipe_home_view_return_status_code_200_OK",
   "test_teste.py::test_teste",
   "teste/test_prime.py::test_prime"
 ]
