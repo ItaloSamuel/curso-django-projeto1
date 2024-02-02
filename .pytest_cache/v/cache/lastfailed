@@ -1,1 +1,18 @@
-{}
+{
+  "curso-django-projeto1/manage.py": true,
+  "curso-django-projeto1/project/asgi.py": true,
+  "curso-django-projeto1/project/settings.py": true,
+  "curso-django-projeto1/project/urls.py": true,
+  "curso-django-projeto1/project/wsgi.py": true,
+  "curso-django-projeto1/recipes/admin.py": true,
+  "curso-django-projeto1/recipes/apps.py": true,
+  "curso-django-projeto1/recipes/models.py": true,
+  "curso-django-projeto1/recipes/urls.py": true,
+  "curso-django-projeto1/recipes/views.py": true,
+  "curso-django-projeto1/recipes/migrations/0001_initial.py": true,
+  "curso-django-projeto1/recipes/migrations/0002_rename_prepearation_time_recipe_preparation_time_and_more.py": true,
+  "curso-django-projeto1/recipes/tests/test_base_recipe.py": true,
+  "curso-django-projeto1/recipes/tests/test_recipe_url.py": true,
+  "curso-django-projeto1/recipes/tests/test_recipe_views.py": true,
+  "utils/recipes/factory.py": true
+}
